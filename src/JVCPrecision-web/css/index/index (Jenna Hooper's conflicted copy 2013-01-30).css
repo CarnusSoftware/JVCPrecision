@@ -1,0 +1,126 @@
+/* CSS Document */
+		
+
+									
+.banner								{	
+										width:1000px;
+										height:300px;
+										position:relative;
+										margin:0 auto;
+										top:0px;
+										
+									}
+									
+.banner img							{	margin: 18px auto;
+    									padding-left: 65px;
+									}
+									
+.sub_menu_wrapper					{	width:100%;
+										background:url(../../images/index/sub_menu/background/tile.jpg) repeat 0 0;
+										
+										
+									}
+									
+.sub_menu							{	width:1000px;
+										margin:0 auto;
+										background-color:#055093;
+										height:250px;
+									}
+									
+.sub_services						{	background:url(../../images/index/sub_menu/services.jpg) no-repeat;
+										background-size:100%;
+										width:33.3%;
+										height:100%;
+										float:left;
+										position:relative;
+										top:0px;
+										text-align:center;
+
+									}
+									
+.sub_services p						{	padding:0px 10px;
+									}
+									
+.sub_product						{	background:url(../../images/index/sub_menu/product.jpg) no-repeat;
+										background-size:100%;
+										width:33.4%;
+										height:100%;
+										float:left;
+										position:relative;
+										top:0px;
+										text-align:center;
+									}
+									
+.sub_product p						{	padding:0px 10px;
+									}
+									
+.sub_team							{	background:url(../../images/index/sub_menu/team.jpg) no-repeat;
+										background-size:100%;
+										width:33.3%;										
+										height:100%;
+										float:left;
+										position:relative;
+										top:0px;
+										text-align:center;
+									}
+									
+.sub_team p							{	padding:0px 10px;
+									}
+									
+#read_more							{	width:60%;
+										margin:5px auto;
+										background-color:#282727;
+										padding:5px;
+									}
+									
+.content_wrapper					{
+	
+									}
+									
+.content							{	width:1000px;
+										margin:25px auto;
+										/*height:100%;*/
+										min-height: 100%;
+    									overflow: auto;
+	
+									}
+									
+.content_left						{	width:65%;
+										float:left;
+										
+										
+									}
+									
+.content_left p						{	/*width:80%;*/
+										/*padding:20px;*/
+										text-align:justify;
+										text-justify:inter-word;
+										line-height:25px;
+										
+									}
+									
+#cut								{	float:left;
+										margin-right:25px;
+										margin-bottom: 10px;
+									}
+									
+#ps									{	position:relative;
+										top:100px;
+									}
+									
+								
+									
+									
+.content_right						{	width:30%;
+										float:right;
+										text-align:center;
+									}
+									
+									
+.side_menu_item						{	border:10px solid #494646 ;
+										opacity:0.7;
+										filter:alpha(opacity=40); /* For IE8 and earlier */
+										background-color:#494646;
+										margin-top:15px;
+									}
+									

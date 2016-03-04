@@ -1,0 +1,151 @@
+/* CSS Document */
+		
+
+									
+.banner								{	
+										width:1000px;
+										height:368px;
+										position:relative;
+										margin:0 auto;
+										top:0px;
+										
+									}
+									
+.banner img							{	
+										margin: 25px auto;
+										padding-left:50px;
+									}
+									
+.sub_menu_wrapper					{	width:100%;
+										background:url(../../images/index/sub_menu/background/tile.jpg) repeat 0 0;
+										
+										
+									}
+									
+.sub_menu							{	width:1000px;
+										margin:0 auto;
+										background-color:#055093;
+										height:250px;
+									}
+									
+.sub_services						{	
+										width:33.3%;
+										height:100%;
+										float:left;
+										position:relative;
+										top:0px;
+										text-align:center;
+										padding-top:5px;
+
+									}
+									
+.sub_services p						{	padding:0px 10px;
+									}
+									
+.sub_product						{	
+										width:33.4%;
+										height:100%;
+										float:left;
+										position:relative;
+										top:0px;
+										text-align:center;
+										padding-top:25px;
+									}
+									
+.sub_product p						{	padding:0px 10px;
+									}
+									
+.sub_team							{	
+										width:33.3%;										
+										height:100%;
+										float:left;
+										position:relative;
+										top:0px;
+										text-align:center;
+										padding-top:25px;
+									}
+									
+.sub_team p							{	padding:0px 10px;
+									}
+									
+
+									
+.content_wrapper					{
+	
+									}
+									
+.content							{	width:1000px;
+										margin:25px auto;
+										/*height:100%;*/
+										min-height: 100%;
+    									overflow: auto;
+	
+									}
+									
+.content_left						{	width:32%;
+										float:left;
+										background-color:#494646;
+										height: 380px;
+										/*min-height:100%;
+										overflow: auto;*/
+										
+									}
+									
+.content_left p						{	/*width:80%;*/
+										/*padding:20px;*/
+										text-align:center;
+										text-justify:inter-word;
+										
+									}
+									
+
+									
+								
+									
+									
+.content_right						{	width:32%;
+										background-color:#494646;
+										float:right;
+										text-align:center;
+										height: 380px;
+										/*min-height:100%;
+										overflow: auto; */
+									}
+									
+.content_center						{	background-color:#494646;
+										float:right;
+										width:32%;
+										margin-right:20px;
+										text-align:center;
+										height: 380px;
+										/*min-height:100%;
+										overflow: auto;*/
+									}
+									
+									
+.side_menu_item						{	text-align:center;
+										opacity:0.7;
+										filter:alpha(opacity=70); /* For IE8 and earlier */
+									}
+									
+.content_bottom						{	width:100%;
+										height:100%;
+										margin-top:20px;
+										
+										
+	
+									}
+									
+.content_bottom_left				{	width:66%;
+										float:left;
+										margin-top:25px;
+										
+										
+
+									}
+									
+.content_bottom_right				{	width:32%;
+										float:right;
+										margin-top:25px;
+										
+									}

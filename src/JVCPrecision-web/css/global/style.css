@@ -1,0 +1,209 @@
+/* CSS Document */
+
+html,body							{	/*background-color:#282727;*/
+										background:url(../../images/index/background.jpg) no-repeat center center fixed;
+										-webkit-background-size: cover;
+										-moz-background-size: cover;
+										-o-background-size: cover;
+										background-size: cover;
+										margin: 0;
+										padding: 0;
+										border: 0;
+										font-size: 100%;
+										font-family:Arial, Helvetica, sans-serif;
+										vertical-align: baseline;
+										text-decoration:none;
+										color:white;
+										
+									}
+									
+.nav_wrapper						{	background-color:#343030;
+										width:100%;
+										height:125px;
+										position:relative;
+										z-index:10;
+									}
+									
+.nav									{	width:1000px;
+										margin:0 auto;
+									}
+									
+.header								{	margin-top:30px;
+										float:left;
+									}
+
+#slider
+                                    {   position:relative;
+}
+									
+h1 									{
+    									color: #FFF;
+    									font-family: Arial;
+    									font-size: 28px;
+    									font-weight: bold;
+										font-style:italic;
+									}
+									
+h2 									{
+    									color: #FFF;
+    									font-family: Arial;
+    									font-size: 18px;
+    									font-weight: bold;
+									}
+									
+h3 									{
+    									color: #FFF;
+    									font-family: Arial;
+    									font-size: 20px;
+										font-style:italic;
+										font-weight:600;
+									}
+									
+h4 									{
+    									color: #FFF;
+    									font-family: Arial;
+    									font-size: 13px;
+										
+									}
+									
+h5 									{
+    									background-color:#055093;
+										color: #FFF;
+    									font-family: Arial, Helvetica, sans-serif;
+    									font-size: 20px;
+										font-style:italic;
+										text-align: center;
+										font-weight:bold;
+										padding: 10px 10px 10px 10px;
+											
+									}
+									
+h6 									{
+    									color: #FFF;
+    									font-family: Arial;
+    									font-size: 20px;
+										font-style:italic;
+										text-align:center;
+										font-weight:lighter;
+										
+									}
+									
+h7 									{
+    									color: #0991e8;
+    									font-family: Arial;
+    									font-size: 16px;
+										font-style:italic;
+										text-align:center;
+										
+									}
+									
+h8 									{
+    									color: #FFF;
+    									font-family: Arial;
+    									font-size: 18px;
+    									font-weight: bold;
+										
+										
+									}
+									
+.clear								{	clear:both;
+
+									}
+									
+									
+.footer_wrapper						{	float:left;	
+										width:100%;
+										min-height:50px;
+										/*background:url(../../images/footer/footer_tile.jpg) repeat;*/
+										background-color:#232222;
+										padding: 20px 0px;
+									}
+									
+.footer								{	width:1000px;
+										margin:0 auto;
+										font-size: 12px;
+									}
+									
+.footer a:visited					{	color:#CCC;
+										text-decoration:none;
+	
+									}
+									
+.footer a:link						{	color:#FFF;
+										text-decoration:none;
+										font-size: 12px
+	
+									}
+									
+.footer-socialmedia					{	float:right;
+										position:relative;
+										bottom:10;
+										margin: 0px auto;
+
+
+									}
+																	
+	
+.menu								{	padding:12px 0 0 10px; 
+										margin:0 auto;
+										position:relative;
+										z-index:15;
+										top:85px;
+										
+										 
+										
+									}
+
+.menu ul 							{	text-align: right; 
+										padding:0; 
+										margin:0; 
+										list-style:none; 
+										border:0; 
+										float:right;
+										
+									}
+									
+.menu ul li 							{ 
+										float:left; 
+										margin-bottom:5px; 
+										padding:0; 
+										border:0;
+										
+									}
+									
+.menu ul li a 						{	float:left; 
+										margin:0; 
+										padding:7px 24px 5px; 
+										color:#fbfbfb; 
+										font:bold 12px Verdana, Arial, Helvetica, sans-serif; 										
+										text-decoration:none;
+										padding-bottom:5px;
+									}
+									
+.menu ul li a:hover 					{	position:relative;
+										background-color:#999;	
+										opacity:0.8;
+
+									}
+									
+.menu ul li a.active 				{	background-color:#055093;
+
+									}	
+									
+a:link 								{ color:#FFF;
+									  text-decoration:none;
+
+ 									}
+									
+a:visited							{ color: #FFF;
+									  text-decoration:none;
+									  
+									}
+									
+a:hover 							{ color:#FFF;
+									  text-decoration:none;
+
+ 									}
+									  
+
+

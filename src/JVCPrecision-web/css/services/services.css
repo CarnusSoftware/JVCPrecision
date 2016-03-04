@@ -1,0 +1,142 @@
+/* CSS Document */
+		
+
+									
+.banner								{	
+										width:1000px;
+										height:368px;
+										position:relative;
+										margin:0 auto;
+										top:0px;
+										
+									}
+									
+.banner img							{	
+										margin: 25px auto;
+										padding-left:50px;
+										
+									}
+									
+.sub_menu_wrapper					{	width:100%;
+										background:url(../../images/index/sub_menu/background/tile.jpg) repeat 0 0;
+										
+										
+									}
+									
+.sub_menu							{	width:1000px;
+										margin:0 auto;
+										background-color:#055093;
+										height:250px;
+										text-align:justify;
+										
+										
+										
+									}
+									
+.sub_menu p							{	position:relative;
+										margin-left:10px;
+										padding-top:10px;
+										color: #FFF;
+    									font-family: Arial;
+    									font-size: 28px;
+    									font-weight: bold;
+										font-style:italic;
+									}
+									
+.sub_menu_left						{	width:45%;
+										float:left;
+										display:block;
+										padding:15px;
+										line-height: 21px;
+										/*background-color:#494646;
+										opacity:0.7;
+										filter:alpha(opacity=40); /* For IE8 and earlier */
+										
+									}
+									
+									
+.sub_menu_right						{	width:45%;
+										float:right;
+										display:block;
+										padding:15px;
+										line-height: 21px;
+										/*background-color:#494646;
+										opacity:0.7;
+										filter:alpha(opacity=40); /* For IE8 and earlier */
+									}
+									
+									
+									
+#read_more							{	width:60%;
+										margin:5px auto;
+										background-color:#282727;
+										padding:5px;
+									}
+									
+.content_wrapper					{	
+	
+									}
+									
+.content							{	width:1000px;
+										margin:25px auto;
+										/*height:100%;*/
+										min-height: 100%;
+    									overflow: auto;
+	
+									}
+									
+.content p							{	font-size:16px;
+										text-align:center;
+
+									}
+									
+
+									
+.content_left						{	width:47%;
+										float:left;
+										
+										
+									}
+									
+.content_left p						{	/*width:80%;*/
+										/*padding:20px;*/
+										text-align:justify;
+										text-justify:inter-word;
+										
+									}
+									
+
+									
+.content_right						{	width:47%;
+										float:right;
+										
+									}
+									
+.side_menu_left						{	width:50%;
+										float: left;
+	
+	
+									}
+									
+.side_menu_right					{	width:50%;
+										float: right;
+	
+	
+									}
+									
+									
+.servicesRow						{	width:70%;
+										
+	
+									}
+									
+.servicesInfo						{	background-color: #494646 ;
+										text-align: center;
+										width:220px;
+										padding: 3px 3px 3px 3px;
+										opacity:0.7;
+										filter:alpha(opacity=70); /* For IE8 and earlier */
+										margin-bottom:10px;
+	
+									}
+									
